@@ -21,5 +21,9 @@ class Program
 		Console.Write("Input age: ");
 		var age = Console.ReadLine();
 		Console.WriteLine($"Age: {age}");
+
+		Console.Write("Input money: ");
+		var money = Console.ReadLine();
+		Console.WriteLine($"Money: {money}");
 	}
 }
