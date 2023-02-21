@@ -13,5 +13,9 @@ class Program
 		Console.Write("Input phone number: ");
 		var phoneNumber = Console.ReadLine();
 		Console.WriteLine($"Phone number: {phoneNumber}");
+
+		Console.Write("Input gender: ");
+		var gender = Console.ReadLine();
+		Console.WriteLine($"Gender: {gender}");
 	}
 }
