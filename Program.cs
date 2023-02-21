@@ -11,5 +11,6 @@ class Program
 		Console.WriteLine($"Address: {address}");
 
 		Console.Write("Input phone number: ");
+		var phoneNumber = Console.ReadLine();
 	}
 }
