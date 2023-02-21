@@ -9,5 +9,7 @@ class Program
 		Console.WriteLine("Input address: ");
 		var address = Console.ReadLine();
 		Console.WriteLine($"Address: {address}");
+
+		Console.Write("Input phone number: ");
 	}
 }
