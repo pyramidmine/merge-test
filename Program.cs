@@ -5,5 +5,7 @@ class Program
     {
         Console.WriteLine("Hello, World!");
         Console.WriteLine("My name is Edward.");
-    }
+
+		Console.WriteLine("Input address: ");
+	}
 }
