@@ -7,5 +7,6 @@ class Program
         Console.WriteLine("My name is Edward.");
 
 		Console.WriteLine("Input address: ");
+		var address = Console.ReadLine();
 	}
 }
