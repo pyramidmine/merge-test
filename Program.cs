@@ -17,5 +17,9 @@ class Program
 		Console.Write("Input gender: ");
 		var gender = Console.ReadLine();
 		Console.WriteLine($"Gender: {gender}");
+
+		Console.Write("Input age: ");
+		var age = Console.ReadLine();
+		Console.WriteLine($"Age: {age}");
 	}
 }
